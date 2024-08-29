@@ -1,0 +1,7 @@
+PROCEDURE KULLANIMI 
+*************************
+Ürün
+Müşteri
+Satıcı
+
+Hareket tablosu ıle ılısık yapıp procedure kullanımını yaptım.

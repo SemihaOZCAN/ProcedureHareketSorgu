@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\HareketSorgu\HareketSorgu\bin\Debug\HareketSorgu.exe.config
+C:\Users\Semiha\Desktop\HareketSorgu\HareketSorgu\bin\Debug\HareketSorgu.exe
+C:\Users\Semiha\Desktop\HareketSorgu\HareketSorgu\bin\Debug\HareketSorgu.pdb
+C:\Users\Semiha\Desktop\HareketSorgu\HareketSorgu\obj\Debug\HareketSorgu.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\HareketSorgu\HareketSorgu\obj\Debug\HareketSorgu.Form1.resources
+C:\Users\Semiha\Desktop\HareketSorgu\HareketSorgu\obj\Debug\HareketSorgu.Properties.Resources.resources
+C:\Users\Semiha\Desktop\HareketSorgu\HareketSorgu\obj\Debug\HareketSorgu.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\HareketSorgu\HareketSorgu\obj\Debug\HareketSorgu.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\HareketSorgu\HareketSorgu\obj\Debug\HareketSorgu.exe
+C:\Users\Semiha\Desktop\HareketSorgu\HareketSorgu\obj\Debug\HareketSorgu.pdb
